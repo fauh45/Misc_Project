@@ -11,6 +11,6 @@ $date = date("d-m-Y", strtotime($sholat["date_for"]));
 
 echo "Waktu untuk ".ucfirst(strtolower($loc))." Tanggal ".$date."\n\n";
 for ($i=0; $i < count($sholat)-1; $i++) {
-	echo $nama[$i]." : ".$sholat[$name[$i]]."\n";
+	echo $nama[$i]." : ".date("H:i", strtotime($sholat[$name[$i]]))."\n";
 }
 ?>
