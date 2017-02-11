@@ -8,3 +8,5 @@ It's a mathematics problem, so I tried using computer to do the work(read : too 
 
 * Shalat Time (Indo)
 Basically a program that fetch shalat time and then show it in a list with Indonesian name, with a config file seperated from the main file
+
+[![Build Status](https://travis-ci.org/fauh45/Misc_Project.svg?branch=master)](https://travis-ci.org/fauh45/Misc_Project)
