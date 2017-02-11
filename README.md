@@ -7,4 +7,4 @@ Well all of it is a really small project, here's the breakdown :
 It's a mathematics problem, so I tried using computer to do the work(read : too lazy).
 
 * Shalat Time (Indo)
-Basically a program that fetch shalat time and then show it in a list with Indonesian name (now with CI!
+Basically a program that fetch shalat time and then show it in a list with Indonesian name, with a config file seperated from the main file
